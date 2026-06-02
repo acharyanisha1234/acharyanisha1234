@@ -11,7 +11,7 @@ I am a passionate **MERN Stack Developer** focused on building fast, scalable, a
 💻 **Full-Stack Web Developer (MERN)**  
 🚀 **Building real-world projects & scalable applications**  
 🌱 **Continuously learning & improving every day**  
-💼 Portfolio: [http://127.0.0.1:5500/ 
+💼 Portfolio: http://127.0.0.1:5500/ 
 
 📫 **Email:** acharyanisha2063@gmail.com  
 🔗 **LinkedIn:** https://www.linkedin.com/in/nisha-acharya-8711b4400
