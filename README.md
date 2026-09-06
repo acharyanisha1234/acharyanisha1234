@@ -13,7 +13,7 @@ I am a passionate **MERN Stack Developer** focused on building fast, scalable, a
 🌱 **Continuously learning & improving every day**  
 💼 **Portfolio:** [Visit My Portfolio](https://acharyanisha1234.github.io/My-portfolio/)  
 📫 **Email:** acharyanisha2063@gmail.com  
-🔗 **LinkedIn:** linkedin.com/in/nisha-acharya-20a750434
+🔗 **LinkedIn: https://www.linkedin.com/in/nisha-acharya-20a750434
 
 ---
 
