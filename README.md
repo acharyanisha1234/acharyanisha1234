@@ -16,12 +16,11 @@ I specialize in **full-stack development** — from crafting clean interfaces wi
 
 Currently focused on mastering **full-stack architecture**, **system design**, and **scalable backend systems**.
 
-- 🔭 Currently building **SajiloSplit** — a smart fintech platform
+- 🚀 Built **SajiloSplit** — a full-stack fintech platform
 - 💼 Worked on **SchoolLink** — MERN-based school management system
 - 💻 Specialized in **MERN Stack & Backend Development**
 - 🌱 Learning **Advanced React, System Design & Cloud Deployment**
 - 🧩 Love solving problems and debugging applications
-- 🚀 Interested in **scalable and user-friendly software**
 - 🤝 Open to **internships, junior developer roles & collaboration**
 
 ---
@@ -230,8 +229,8 @@ I believe the best way to grow as a developer is by:
 
 ## 📌 Quick Facts
 
-- 🌱 **Currently Building:** SajiloSplit (Fintech Platform)
-- 💼 **Previously Worked On:** SchoolLink (School Management System)
+- 💼 **Most Recent Project:** SajiloSplit (Fintech Platform)
+- 🏫 **Internship Project:** SchoolLink (School Management System)
 - 🎯 **Goal:** Become a skilled Full-Stack Developer
 - ☕ **Fueled By:** Coffee & Curiosity
 - 📍 **Location:** Koshi Province, Nepal 🇳🇵
