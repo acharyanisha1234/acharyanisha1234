@@ -1,33 +1,37 @@
-# 👋 Hi, I'm Nisha Acharya
+<h1 align="center">Hi 👋, I'm Nisha Acharya</h1>
 
-<div align="center">
+<h3 align="center">MERN Stack Developer | Full-Stack Web Developer | Building Real-World Applications</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9B59B6&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Full-Stack+Web+Developer;Building+Real-World+Web+Applications;Always+Learning+%26+Improving" alt="Typing SVG" />
-
-</div>
-
-<div align="center">
-
-### 💻 MERN Stack Developer | 🚀 Full-Stack Web Development | 🌱 Continuous Learner
-
-</div>
+<p align="center">
+  <a href="https://github.com/acharyanisha1234">
+    <img src="https://komarev.com/ghpvc/?username=acharyanisha1234&label=Profile%20Views&color=9B59B6&style=flat" alt="Profile Views" />
+  </a>
+  <a href="https://github.com/acharyanisha1234?tab=followers">
+    <img src="https://img.shields.io/github/followers/acharyanisha1234?label=Followers&style=social" alt="Followers" />
+  </a>
+  <a href="https://github.com/acharyanisha1234?tab=stars">
+    <img src="https://img.shields.io/github/stars/acharyanisha1234?label=Stars&style=social" alt="Stars" />
+  </a>
+</p>
 
 ---
 
 ## 👩‍💻 About Me
 
-I'm a **MERN Stack Developer** passionate about building modern, responsive, and user-friendly web applications.
+I'm a passionate **MERN Stack Developer** from **Koshi Province, Nepal 🇳🇵**, building modern, responsive, and user-friendly web applications.
 
-I enjoy working across both **frontend and backend**, from designing clean interfaces with React and Tailwind CSS to building REST APIs, authentication systems, and database-driven applications.
+I specialize in **full-stack development** — from crafting clean interfaces with React and Tailwind CSS to building robust REST APIs, authentication systems, and database-driven applications.
 
-I'm currently focused on improving my **full-stack development skills** and building practical projects that solve real-world problems.
+Currently focused on mastering **full-stack architecture**, **system design**, and **scalable backend systems**.
 
-* 🔭 Currently building and improving **full-stack web applications**
-* 💻 Interested in **MERN Stack & Backend Development**
-* 🌱 Currently learning and improving **Advanced React, Node.js & REST APIs**
-* 🧩 Enjoy solving problems and debugging applications
-* 🚀 Interested in building **scalable and user-friendly software**
-* 🤝 Open to **internships, junior developer roles & collaboration**
+- 🔭 Currently building **SajiloSplit** — a smart fintech platform
+- 💼 Worked on **SchoolLink** — MERN-based school management system
+- 💻 Specialized in **MERN Stack & Backend Development**
+- 🌱 Learning **Advanced React, System Design & Cloud Deployment**
+- 🧩 Love solving problems and debugging applications
+- 🚀 Interested in **scalable and user-friendly software**
+- 🤝 Open to **internships, junior developer roles & collaboration**
+- 📍 Based in **Koshi Province, Nepal**
 
 ---
 
@@ -35,257 +39,280 @@ I'm currently focused on improving my **full-stack development skills** and buil
 
 ### 🎨 Frontend
 
-<p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
 </p>
 
 ### ⚙️ Backend
 
-<p>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/REST_API-FF6F00?style=for-the-badge&logo=fastapi&logoColor=white" />
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-FF6F00?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
 </p>
 
 ### 🗄️ Databases
 
-<p>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<p align="left">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
 ### 🔧 Tools & Technologies
 
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🩺 Swastha-Sangai
+### 💰 SajiloSplit — Smart Digital Money Management Platform
 
-A **full-stack healthcare social platform** designed to connect users through health-focused social features.
+A **full-stack fintech application** built for Nepal, combining digital wallet, group expense splitting, shared budgets, settlements, bill management, and purpose-locked funds into one seamless platform.
 
-**Tech:** React.js • Node.js • Express.js • PostgreSQL • Socket.IO • WebRTC
+**Tech Stack:** React.js • Vite • Tailwind CSS • Redux Toolkit • Node.js • Express.js • MongoDB • JWT • Socket.IO • Nodemailer • Multer
 
-**Features:**
+**Key Features:**
 
-* 🔐 JWT-based authentication
-* 👤 User profiles and connections
-* 📝 Posts, comments & communities
-* 💬 Real-time messaging
-* 📞 One-to-one audio/video calling
-* 🤖 AI chatbot
-* 💰 Donation system
-* 📱 Responsive user interface
+- 🔐 **Bank-level Security** — JWT auth, bcrypt hashing, rate limiting, account lockout, device fingerprinting, session management, security logging
+- 💰 **Digital Wallet** — Add money, send/receive, transaction history, PDF/CSV export, QR code payments
+- 👥 **Group Wallet** — Create groups, manage members, track shared balance with progress bars
+- 🧮 **Smart Expense Splitting** — Equal, Percentage, Exact, Shares methods with validation
+- ⚖️ **Smart Settlements** — Auto-calculation with optimization algorithm
+- 📊 **Budget Management** — Monthly budgets with alerts at 70%, 80%, 90%, 100%
+- 📋 **Bill Management** — One-time and recurring bills with reminders
+- 🔒 **Purpose-Locked Funds** — Lock money with unlock dates
+- 🚨 **Emergency Funds** — Group emergency fund with request/approval workflow
+- 🛡️ **KYC Verification** — Document upload with admin approval workflow
+- 👑 **Admin Dashboard** — User management, dispute resolution, audit logs
+- 🌍 **12 Languages** — English, Nepali, Hindi, Spanish, French, German, Portuguese, Turkish, Arabic (RTL), Chinese, Japanese, Korean
+- 🎨 **Dark Mode** — Full application-wide dark mode
+- 🔔 **Real-time Notifications** — Socket.IO powered
+- 📱 **Fully Responsive** — Mobile-first design
+
+**Architecture:** React + Redux → REST APIs → Node.js + Express → MongoDB
+
+🔗 **Repository:** [SajiloSplit](https://github.com/acharyanisha1234/SajiloSplit)
+
+---
+
+### 🏫 SchoolLink — MERN School Management System
+
+A **full-stack school management system** built during my internship at **Sitaula Tech Solution**, designed to streamline school operations for teachers and students.
+
+**Tech Stack:** React.js • Node.js • Express.js • MongoDB • JWT • REST APIs
+
+**My Contributions:**
+
+- 👨‍🏫 Developed **Teacher Module** with features for managing classes, attendance, and student records
+- 🎓 Built **Student Module** with profile management and academic features
+- 🔐 Implemented **JWT authentication & authorization**
+- 🔗 Integrated frontend with backend REST APIs
+- 🐛 Tested, debugged, and troubleshot application features
+- 🤝 Collaborated with team members in an Agile environment
+
+**Architecture:** React.js → REST APIs → Node.js + Express.js → MongoDB
+ **Repository:** [SajiloSplit](https://github.com/acharyanisha1234/SchoolLink)
+
+---
+
+### 🩺 Swastha-Sangai — Healthcare Social Platform
+
+A **full-stack healthcare social platform** designed to connect users through health-focused social features and real-time communication.
+
+**Tech Stack:** React.js • Node.js • Express.js • PostgreSQL • Socket.IO • WebRTC
+
+**Key Features:**
+
+- 🔐 JWT-based authentication
+- 👤 User profiles and connections
+- 📝 Posts, comments & communities
+- 💬 Real-time messaging
+- 📞 One-to-one audio/video calling (WebRTC)
+- 🤖 AI chatbot
+- 💰 Donation system
+- 📱 Responsive UI
+
+**Architecture:** React.js → REST APIs + WebSocket → Node.js → PostgreSQL
 
 🔗 **Repository:** [Swastha-Sangai](https://github.com/acharyanisha1234/Swastha-Sangai)
 
 ---
 
-🛒 TrustMart
+### 🛒 TrustMart — Second-Hand Marketplace
 
-A full-stack second-hand marketplace application built with a React frontend and a Java-based backend.
+A **full-stack second-hand marketplace** built with a React frontend and a Java-based Spring Boot backend.
 
-Tech: React.js • Tailwind CSS • Java • Spring Boot • Gradle • PostgreSQL
+**Tech Stack:** React.js • Tailwind CSS • Java • Spring Boot • Gradle • PostgreSQL
 
-My Contributions:
+**My Contributions:**
 
-🔐 Implemented user registration, login and logout
-🎫 Implemented JWT-based authentication and authorization
-👥 Worked with role-based access for Admin, Staff and Customer
-👤 Developed the User Dashboard
-🔑 Implemented profile and password management features
-🛡️ Worked with protected routes and backend authorization
-🔄 Integrated the React frontend with backend APIs
-🗄️ Worked with PostgreSQL for data management
+- 🔐 Implemented user registration, login and logout
+- 🎫 Built JWT-based authentication and authorization
+- 👥 Worked with role-based access for Admin, Staff and Customer
+- 👤 Developed the User Dashboard
+- 🔑 Implemented profile and password management features
+- 🛡️ Worked with protected routes and backend authorization
+- 🔄 Integrated React frontend with Spring Boot backend APIs
+- 🗄️ Worked with PostgreSQL for data management
 
-Architecture:
+**Architecture:** React.js + Tailwind CSS → Spring Boot + Java → PostgreSQL
 
-React.js + Tailwind CSS → Spring Boot + Java → PostgreSQL
-Build Tool: Gradle 
+🔗 **Repository:** [TrustMart](https://github.com/dikshanta8080/trustmart.git)
 
-🔗 **Repository:** https://github.com/dikshanta8080/trustmart.git
+---
 
-### 🎬 Cinevo
+### 🎬 Cinevo — Movie Streaming Platform
 
-A **full-stack movie streaming platform** designed to provide users with a smooth and interactive movie browsing and watching experience.
+A **full-stack movie streaming platform** providing users with a smooth and interactive movie browsing and watching experience.
 
-**Tech:** React.js • JavaScript • Tailwind CSS • Node.js • Express.js • Database • REST APIs
+**Tech Stack:** React.js • JavaScript • Tailwind CSS • Node.js • Express.js • REST APIs
 
 **Key Features:**
 
-* 🎥 Online movie streaming with smooth video playback
-* 🔍 Search and discover movies by title
-* 🔥 Trending, Popular, Top Rated, Now Playing & Upcoming movie sections
-* ❤️ Add and manage favorite movies
-* 📺 Watch history with saved viewing progress
-* ▶️ Continue watching from where the user left off
-* 👤 User registration, login and profile management
-* 🔐 Secure user authentication
-* 📤 Share movies through Facebook, X/Twitter, WhatsApp, Instagram and Email
-* 📱 Responsive design for mobile, tablet and desktop
-* 🌙 Dark-themed interface with smooth animations
+- 🎥 Online movie streaming with smooth video playback
+- 🔍 Search and discover movies by title
+- 🔥 Trending, Popular, Top Rated, Now Playing & Upcoming sections
+- ❤️ Add and manage favorite movies
+- 📺 Watch history with saved viewing progress
+- ▶️ Continue watching from where you left off
+- 👤 User registration, login and profile management
+- 🔐 Secure user authentication
+- 📤 Share movies via Facebook, X/Twitter, WhatsApp, Instagram & Email
+- 📱 Responsive design
+- 🌙 Dark-themed interface with smooth animations
 
-**My Focus:**
+**Architecture:** React.js + Tailwind CSS → REST APIs → Node.js + Express.js → Database
 
-* Developed and structured frontend movie browsing interfaces
-* Implemented movie search and discovery features
-* Worked with user authentication and account-related functionality
-* Built favorites and watch-history functionality
-* Integrated frontend with backend APIs
-* Focused on responsive UI and user-friendly navigation
+🔗 **Repository:** [Cinevo](https://github.com/acharyanisha1234/Cinevo.git)
 
-**Architecture:**
-
-React.js + Tailwind CSS → REST APIs → Node.js + Express.js → Database
-🔗 **Repository:** https://github.com/acharyanisha1234/Cinevo.git
+---
 
 ### 🍽️ Food-del — Full-Stack Food Ordering Platform
 
-A **full-stack food ordering web application** built to provide users with a smooth and convenient way to explore food items and interact with a restaurant ordering system.
+A **full-stack food ordering web application** built to provide a seamless food exploration and ordering experience.
 
-**Tech:** React.js • Tailwind CSS • JavaScript • Node.js • Express.js • Database • REST APIs
+**Tech Stack:** React.js • Tailwind CSS • JavaScript • Node.js • Express.js • REST APIs
 
 **Key Features:**
 
-* 🍔 Browse food items and menu categories
-* 🛒 Food ordering and cart functionality
-* 👤 User account and authentication
-* 🔐 Secure login and registration
-* 📦 Order management
-* 🔄 Frontend and backend API integration
-* 📱 Fully responsive design for mobile, tablet, and desktop
-* 🎨 Modern UI built with Tailwind CSS
-* ⚙️ Backend APIs for handling application data and user operations
+- 🍔 Browse food items and menu categories
+- 🛒 Food ordering and cart functionality
+- 👤 User account and authentication
+- 🔐 Secure login and registration
+- 📦 Order management
+- 🔄 Frontend and backend API integration
+- 📱 Fully responsive design
+- 🎨 Modern UI with Tailwind CSS
 
-**My Focus:**
+**Architecture:** React.js + Tailwind CSS → REST APIs → Node.js + Express.js → Database
 
-* 🎨 Built responsive and reusable UI components using React.js and Tailwind CSS
-* 🔗 Connected frontend components with backend REST APIs
-* 🔐 Worked on user authentication and application functionality
-* 🛒 Implemented food browsing and ordering-related features
-* 🧩 Structured the application into frontend and backend components
-* 🐛 Tested and debugged application functionality
+🔗 **Repository:** [Food-del](https://github.com/acharyanisha1234/Food-del.git)
 
-**Architecture:**
-
-React.js + Tailwind CSS → REST APIs → Node.js + Express.js → Database
-
-**Project Goal:**
-
-The project was developed to gain practical experience in **full-stack web development**, including responsive frontend design, backend API development, database integration, authentication, and building a real-world food ordering application.
-🔗 **Repository:** https://github.com/acharyanisha1234/Food-del.git
+---
 
 ## 💼 Experience
 
 ### MERN Stack Developer Intern
 
-**Sitaula Tech Solution | Jun 2026 – Aug 2026**
+**Sitaula Tech Solution** | *Jun 2026 – Aug 2026*
 
-During my internship, I worked on real-world web development tasks using modern technologies.
+Worked on real-world web development tasks using modern technologies in a professional Agile environment.
 
-* 🏫 Worked on **SchoolLink**, a MERN-based school management system
-* 👨‍🏫 Developed features for **Teacher and Student modules**
-* 🔐 Worked on authentication and backend functionality
-* 🧪 Tested, debugged, and troubleshot application features
-* 🤝 Communicated with team members and supported software-related tasks
-* 📚 Improved practical knowledge of React, Node.js, Express.js and MongoDB
+- 🏫 Worked on **SchoolLink** — a MERN-based school management system
+- 👨‍🏫 Developed features for **Teacher and Student modules**
+- 🔐 Implemented authentication and backend functionality
+- 🧪 Tested, debugged, and troubleshot application features
+- 🤝 Collaborated with team members and supported software-related tasks
+- 📚 Improved practical knowledge of React, Node.js, Express.js and MongoDB
 
 ---
 
 ## 📚 Currently Learning
 
 ```text
-React.js          ████████████████████░░
-Node.js           ██████████████████░░░░
-Express.js        ██████████████████░░░░
-MongoDB           █████████████████░░░░░
-REST APIs         █████████████████░░░░░
-Backend Systems   ███████████████░░░░░░░
-System Design     ███████████░░░░░░░░░░░
-```
+React.js          ████████████████████░░   90%
+Node.js           ██████████████████░░░░   85%
+Express.js        ██████████████████░░░░   85%
+MongoDB           █████████████████░░░░░   80%
+REST APIs         █████████████████░░░░░   80%
+Backend Systems   ███████████████░░░░░░░   75%
+System Design     ███████████░░░░░░░░░░░   55%
+Focus Areas:
 
-I'm continuously improving my understanding of:
+Advanced React patterns & performance optimization
 
-* Advanced React patterns
-* Backend architecture
-* REST API development
-* Authentication & authorization
-* Database design
-* Error handling
-* API testing
-* Clean and maintainable code
+Backend architecture & microservices
 
----
+REST API design & documentation
 
-## 📊 GitHub Statistics
+Authentication, authorization & security
 
+Database design & optimization
+
+Error handling & logging
+
+API testing & CI/CD
+
+Clean, maintainable code
+
+📊 GitHub Statistics
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=acharyanisha1234&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=acharyanisha1234&theme=radical&hide_border=true" width="48%" /> </p><p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=acharyanisha1234&layout=compact&theme=radical&hide_border=true&langs_count=8" width="60%" /> </p><p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=acharyanisha1234&theme=github-compact&hide_border=true&area=true" width="100%" /> </p><p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=acharyanisha1234&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" width="100%" /> </p>
+🌐 Connect With Me
+<p align="center"> <a href="https://acharyanisha1234.github.io/My-portfolio/"> <img src="https://img.shields.io/badge/Portfolio-9B59B6?style=for-the-badge&logo=googlechrome&logoColor=white" /> </a> <a href="https://github.com/acharyanisha1234"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/nisha-acharya-8711b4400"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:acharyanisha2063@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p>
+💡 My Development Philosophy
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=acharyanisha1234&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=acharyanisha1234&theme=radical&hide_border=true" width="48%" />
+Learn → Build → Break → Debug → Improve → Repeat
 
 </div>
+I believe the best way to grow as a developer is by:
 
-<br>
+🏗️ Building real projects instead of just tutorials
 
-<div align="center">
+🐛 Debugging hard problems to understand how things work
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=acharyanisha1234&theme=github-compact&hide_border=true&area=true" width="100%" />
+📖 Reading documentation deeply
 
-</div>
+🤝 Collaborating with other developers
 
----
+🔁 Iterating and improving continuously
 
-## 🌐 Portfolio & Profiles
+📌 Quick Facts
+🌱 Currently Building: SajiloSplit (Fintech Platform)
 
-<div align="center">
+💼 Previously Worked On: SchoolLink (School Management System)
 
-<a href="https://acharyanisha1234.github.io/My-portfolio/">
-<img src="https://img.shields.io/badge/🌐_Portfolio-9B59B6?style=for-the-badge" />
-</a>
+🎯 Goal: Become a skilled Full-Stack Developer
 
-<a href="https://github.com/acharyanisha1234">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+☕ Fueled By: Coffee & Curiosity
 
-<a href="https://www.linkedin.com/in/nisha-acharya-8711b4400">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+📍 Location: Koshi Province, Nepal 🇳🇵
 
-<a href="mailto:acharyanisha2063@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-</div>
-
----
-
-## 💡 My Development Philosophy
-
-> **Learn → Build → Break → Debug → Improve → Repeat**
-
-I believe the best way to grow as a developer is by building real projects, solving problems, learning from mistakes, and continuously improving.
-
----
+💬 Ask Me About: MERN Stack, REST APIs, MongoDB, JWT Auth
 
 <div align="center">
+🚀 Let's Build Something Amazing Together!
+"Learning, building, and improving every single day."
 
-### 🚀 Let's Build Something Great Together!
+⭐ Star my repos if you find them useful!
 
-**“Learning, building, and improving every day.”**
-
-</div>
+</div> ```
