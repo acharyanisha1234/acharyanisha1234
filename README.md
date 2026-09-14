@@ -245,17 +245,6 @@ I focus on:
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=acharyanisha1234&layout=compact&theme=default&hide_border=true&langs_count=8" height="170"/>
-
-</div>
-
----
-
-
 # 🌐 Connect With Me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-9B59B6?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://acharyanisha1234.github.io/My-portfolio/)
