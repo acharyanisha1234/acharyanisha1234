@@ -199,7 +199,7 @@ My primary contribution to this project was on the **frontend**, including authe
 ### MERN Stack Developer Intern
 
 **Sitoula Tech Solution**
-*June 2026 – August 2026*
+*May 2026 – August 2026*
 
 * Contributed to **SchoolLink**, a MERN-based school management system, working on **user management, Teacher and Student-related modules, authentication, and REST API integration**.
 * Worked on **TrustMart**, a marketplace project, contributing to the **frontend user management and user-related interfaces**.
