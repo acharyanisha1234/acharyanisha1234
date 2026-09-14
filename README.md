@@ -248,30 +248,13 @@ I focus on:
 ## 📊 GitHub Statistics
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=acharyanisha1234&show_icons=true&theme=default&hide_border=true" height="170"/>
-
+  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=acharyanisha1234&layout=compact&theme=default&hide_border=true&langs_count=8" height="170"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=acharyanisha1234&theme=default&hide_border=true" height="180"/>
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=acharyanisha1234&theme=flat&no-frame=true&no-bg=true&margin-w=6&row=1" />
-
-</div>
 
 # 🌐 Connect With Me
 
