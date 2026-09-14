@@ -176,15 +176,7 @@ A full-stack food ordering web application with seamless browsing and ordering e
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=acharyanisha1234&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=1800)
-
 ![GitHub Streak](https://streak-stats.demolab.com/?user=acharyanisha1234&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=acharyanisha1234&layout=compact&theme=radical&hide_border=true&langs_count=8&cache_seconds=1800)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=acharyanisha1234&theme=radical&hide_border=true&area=true)
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=acharyanisha1234&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1)
 
 ---
 
