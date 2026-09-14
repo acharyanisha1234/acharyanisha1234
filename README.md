@@ -10,9 +10,9 @@
 
 ## 👩‍💻 About Me
 
-I'm a passionate **MERN Stack Developer** from Nepal, building modern, responsive, and user-friendly web applications.
+'m a MERN Stack Developer from Nepal, dedicated to building modern, responsive, and user-friendly web applications that solve real-world problems.
 
-I specialize in **full-stack development** — from crafting clean interfaces with React and Tailwind CSS to building robust REST APIs, authentication systems, and database-driven applications.
+My expertise spans full-stack development — from creating clean, pixel-perfect interfaces with React and Tailwind CSS to engineering powerful REST APIs, secure authentication flows, and efficient database-driven systems.
 
 Currently focused on mastering **full-stack architecture**, **system design**, and **scalable backend systems**.
 
