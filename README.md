@@ -3,6 +3,7 @@
 ### MERN Stack Developer | Full-Stack Web Developer
 
 📍 Nepal
+
 💼 Open to internships, junior developer roles, and remote opportunities
 
 I’m a Computer Science student and MERN Stack Developer interested in building practical, user-focused web applications.
