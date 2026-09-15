@@ -265,4 +265,5 @@ I am especially interested in **MERN Stack, backend development, REST APIs, and 
 
 ### Thanks for visiting my profile! 👋
 
+ Feel free to explore my repositories and projects.
 
