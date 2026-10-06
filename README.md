@@ -3,28 +3,26 @@
 ### MERN Stack Developer | Full-Stack Developer
 
 📍 Nepal
+💻 Open to internships, junior developer roles, and remote opportunities
 
-Open to internships, junior developer roles, and remote opportunities
+I’m a **BSc (Hons) Computing student** and **MERN Stack Developer** interested in building practical, user-focused web applications.
 
-I’m a Computer Science student and MERN Stack Developer interested in building practical, user-focused applications.
-
-I work across frontend and backend development, with experience building responsive interfaces, REST APIs, authentication systems, database-driven applications, and real-time features.
-
-I enjoy understanding how applications work behind the scenes, debugging problems, and turning ideas into functional software.
+I enjoy working across both frontend and backend development, building responsive interfaces, REST APIs, authentication systems, database-driven applications, and real-time features. I’m also continuously improving my skills in backend development, system design, security, and deployment.
 
 ---
 
 ## 👩‍💻 About Me
 
-* 🎓 BSc (Hons) Computing, affiliated with London Metropolitan University
+* 🎓 BSc (Hons) Computing, affiliated with **London Metropolitan University**
 * 💻 Focused on **MERN Stack & Full-Stack Development**
-* 🚀 Experience with **React.js, Node.js, Express.js, MongoDB, and REST APIs**
-* 🔐 Interested in authentication, authorization, API design, and backend development
-* 🗄️ Experience working with **MongoDB, PostgreSQL, and MySQL**
-* ⚡ Experience with real-time technologies such as **Socket.IO and WebRTC**
-* 📱 Experience building mobile applications using **React Native and Expo**
-* 🧩 Comfortable with Git, GitHub, Postman, and modern development workflows
-* 🌱 Currently improving my knowledge of **backend architecture, system design, security, and deployment**
+* ⚛️ Experience with **React.js, Node.js, Express.js, and MongoDB**
+* 🔌 Experienced in building and integrating **REST APIs**
+* 🔐 Interested in **authentication, authorization, API design, and backend development**
+* 🗄️ Worked with **MongoDB, PostgreSQL, and MySQL**
+* ⚡ Experience with **Socket.IO and WebRTC**
+* 📱 Built mobile applications using **React Native and Expo**
+* 🧩 Familiar with **Git, GitHub, Postman, and modern development workflows**
+* 🌱 Currently improving **backend architecture, system design, security, and deployment**
 * 🤝 Open to learning, collaboration, internships, and junior developer opportunities
 
 ---
@@ -58,7 +56,7 @@ I enjoy understanding how applications work behind the scenes, debugging problem
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square\&logo=postgresql\&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
 
-### Tools & Deployment
+### Tools & Development
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
@@ -72,28 +70,25 @@ I enjoy understanding how applications work behind the scenes, debugging problem
 
 # 🚀 Featured Projects
 
-## 🛡️ RoadShield — Real-Time Road Safety & Incident Reporting Application
+## 🛡️ RoadShield — Real-Time Road Safety & Incident Reporting
 
-**RoadShield** is a real-time road safety and incident reporting application primarily developed for **mobile devices**, with support for **web browsers**.
+**RoadShield** is a mobile-focused road safety and incident reporting application with web browser support.
 
-The application is designed to make road incident reporting easier by allowing users to submit incidents with their **location, photos, incident type, and severity**. Reported incidents can be viewed on an interactive map, helping users and authorized personnel identify and monitor road-safety issues.
+The application allows users to report road incidents using their **location, photos, incident type, and severity**. Reported incidents can be displayed on an interactive map, helping users and authorized personnel monitor road-safety issues.
 
-The application uses **Socket.IO for real-time communication**, allowing incident reports and updates to be shared between users and the backend without requiring manual refreshes.
-
-RoadShield supports different roles, including **Users, Police, and Admins**, with role-based access to reporting, monitoring, and management features. It also includes **SOS functionality, location tracking, incident statistics, hotspot monitoring, and a Python/FastAPI support service**.
+The system uses **Socket.IO for real-time communication** and supports role-based access for **Users, Police, and Admins**.
 
 ### Key Features
 
-* 📱 Mobile application with web browser support
 * 📍 GPS-based location tracking
-* 📸 Photo/camera-based incident reporting
+* 📸 Camera/photo-based incident reporting
 * 🚨 Incident type and severity classification
-* 🗺️ Interactive map with incident markers
-* ⚡ Real-time updates using Socket.IO
+* 🗺️ Interactive incident map
+* ⚡ Real-time updates with Socket.IO
 * 🆘 SOS/emergency functionality
-* 👤 User, Police, and Admin roles
+* 👮 User, Police, and Admin roles
 * 📊 Incident statistics and hotspot monitoring
-* 🔐 JWT-based authentication and role-based authorization
+* 🔐 JWT authentication and role-based authorization
 * 🤖 Python/FastAPI-based AI support service
 
 **Tech Stack:** React Native • Expo • Node.js • Express.js • MongoDB • Mongoose • JWT • bcrypt • Socket.IO • Expo Location • React Native Maps • FastAPI • Python • OpenCV • NumPy • scikit-learn
@@ -104,28 +99,24 @@ RoadShield supports different roles, including **Users, Police, and Admins**, wi
 
 ## 💰 SajiloSplit — Digital Money Management Platform
 
-**SajiloSplit** is a full-stack financial management application designed to help users manage **digital wallets, shared expenses, settlements, budgets, bills, and group financial activities** in one platform.
+**SajiloSplit** is a full-stack financial management application designed to simplify **shared expenses, settlements, wallets, budgets, bills, and group financial activities**.
 
-The application focuses on simplifying shared financial management. Users can manage groups, record expenses, divide costs using different splitting methods, and calculate settlements between group members.
-
-It also includes wallet functionality, QR-based payment flows, budgeting features, recurring bills, notifications, and administrative features.
-
-The frontend is built with **React, Vite, Tailwind CSS, and Redux Toolkit**, while the backend uses **Node.js and Express.js** with MongoDB for data storage.
+Users can create groups, record expenses, split costs using different methods, and calculate settlements between group members.
 
 ### Key Features
 
-* 🔐 JWT-based authentication and account security
+* 🔐 JWT-based authentication
 * 💳 Digital wallet functionality
 * 📱 QR-based payment flow
 * 👥 Group expense management
-* ➗ Equal, percentage, exact, and share-based expense splitting
+* ➗ Equal, percentage, exact, and share-based splitting
 * ⚖️ Automated settlement calculation
 * 📊 Budget management
 * 🧾 Recurring bill management
 * 🔒 Locked funds and emergency fund features
 * 📩 Email verification and password recovery
 * 🔔 Real-time notifications
-* 👑 Administrative management features
+* 👑 Administrative features
 * 🌐 Multi-language and theme support
 
 **Tech Stack:** React.js • Vite • Tailwind CSS • Redux Toolkit • Node.js • Express.js • MongoDB • JWT • Socket.IO • Nodemailer
@@ -138,11 +129,9 @@ The frontend is built with **React, Vite, Tailwind CSS, and Redux Toolkit**, whi
 
 **SchoolLink** is a **MERN-based school management platform** developed during my internship at **Sitoula Tech Solution**.
 
-The platform is designed to manage school-related information and provide features for **teachers and students**. I worked on the development of the platform, including frontend features, backend integration, authentication, testing, debugging, and troubleshooting.
+The platform focuses on managing school-related information for **teachers and students**. During the internship, I contributed to frontend development, backend integration, authentication, testing, debugging, and troubleshooting.
 
-The application follows a client-server architecture where the React frontend communicates with REST APIs built using Node.js and Express.js, while MongoDB is used for data storage.
-
-The frontend has also been **deployed on Vercel**, making the platform accessible through the web.
+The application follows a client-server architecture where the React frontend communicates with REST APIs built using Node.js and Express.js, with MongoDB used for data storage.
 
 ### Key Features
 
@@ -158,18 +147,18 @@ The frontend has also been **deployed on Vercel**, making the platform accessibl
 
 **Tech Stack:** React.js • Node.js • Express.js • MongoDB • JWT • REST APIs • Vercel
 
-🔗 [View Repository](https://github.com/acharyanisha1234/SchoolLink.git)
+🔗 [View Repository](https://github.com/acharyanisha1234/SchoolLink)
 🌐 [Live Demo](https://stsschoollink.vercel.app/)
 
 ---
 
 ## 🩺 Swastha-Sangai — Healthcare Social Platform
 
-**Swastha-Sangai** is a full-stack healthcare-focused social platform that combines **social interaction, communication, and health-related features** in one application.
+**Swastha-Sangai** is a full-stack healthcare-focused social platform combining **social interaction, communication, and health-related features**.
 
 The platform allows users to create profiles, interact through posts and communities, communicate in real time, and access health-focused features.
 
-The project also explores real-time communication and peer-to-peer media communication using **Socket.IO and WebRTC**. PostgreSQL is used for structured data management.
+It also explores real-time communication and peer-to-peer media communication using **Socket.IO and WebRTC**.
 
 ### Key Features
 
@@ -178,7 +167,7 @@ The project also explores real-time communication and peer-to-peer media communi
 * 📝 Posts and comments
 * 👥 Communities and social interaction
 * 💬 Real-time messaging
-* 📞 One-to-one audio/video communication using WebRTC
+* 📞 One-to-one audio/video communication with WebRTC
 * 🤖 AI chatbot integration
 * 💝 Donation functionality
 * ⚡ Real-time communication using Socket.IO
@@ -191,16 +180,13 @@ The project also explores real-time communication and peer-to-peer media communi
 
 ## 🛒 TrustMart — Second-Hand Marketplace
 
-**TrustMart** is a full-stack second-hand marketplace application built with a **React and Tailwind CSS frontend** and a **Java Spring Boot backend**.
+**TrustMart** is a marketplace application built with a **React and Tailwind CSS frontend** and a **Java Spring Boot backend**.
 
-The application is designed around marketplace users, authentication, role-based access, user management, and integration between the frontend and backend.
-
-My primary contribution to this project was on the **frontend**, where I worked on user-related functionality, authentication interfaces, dashboard features, protected routes, and backend API integration.
+My primary contribution was on the **frontend**, where I worked on user management, authentication interfaces, dashboard features, protected routes, and backend API integration.
 
 ### Key Features
 
 * 🔐 User registration and login
-* 🚪 Logout functionality
 * 👥 Role-based access for Admin, Staff, and Customer
 * 👤 User dashboard and profile management
 * 🔑 Password change functionality
@@ -210,44 +196,40 @@ My primary contribution to this project was on the **frontend**, where I worked 
 
 **Tech Stack:** React.js • Tailwind CSS • Java • Spring Boot • Gradle • PostgreSQL • JWT
 
-🔗 [View Repository](https://github.com/dikshanta8080/trustmart.git)
+🔗 [View Repository](https://github.com/dikshanta8080/trustmart)
 
 ---
 
 ## 🎬 Cinevo — MERN Movie Streaming Platform
 
-**Cinevo** is a **MERN Stack movie streaming platform** developed to provide users with a smooth experience for discovering, browsing, searching, and watching movie content.
+**Cinevo** is an independent **MERN Stack movie streaming platform** focused on movie discovery and content management.
 
-The platform provides content discovery features such as **trending movies, popular movies, upcoming releases, favorites, watch history, and continue watching**.
-
-Cinevo was developed as an independent full-stack project, where I worked across both the frontend and backend. The React frontend communicates with the Node.js and Express.js backend through REST APIs, while MongoDB is used for application data.
+The platform provides features such as trending movies, popular content, upcoming releases, favorites, watch history, and continue watching.
 
 ### Key Features
 
 * 🎥 Movie browsing and online playback
-* 🔎 Movie search functionality
+* 🔎 Movie search
 * 🔥 Trending and popular content
 * 🆕 Upcoming movies
 * ❤️ Favorites
 * 🕐 Watch history
 * ▶️ Continue watching
-* 📤 Social sharing functionality
+* 📤 Social sharing
 * 📱 Responsive user interface
 * 🔌 REST API integration
 
 **Tech Stack:** React.js • Tailwind CSS • Node.js • Express.js • MongoDB • REST APIs
 
-🔗 [View Repository](https://github.com/acharyanisha1234/Cinevo.git)
+🔗 [View Repository](https://github.com/acharyanisha1234/Cinevo)
 
 ---
 
 ## 🍽️ Food-del — Food Ordering Platform
 
-**Food-del** is a full-stack food ordering web application designed to provide users with a simple and convenient way to **browse food items, manage their cart, and place orders**.
+**Food-del** is a full-stack food ordering web application designed to provide users with a simple way to **browse food, manage their cart, and place orders**.
 
-The application includes a responsive frontend for browsing food categories and menu items, along with backend functionality for handling application data and orders.
-
-I developed the project independently, working across the frontend and backend to understand the complete flow of a food-ordering application.
+The project helped me understand the complete flow of a food-ordering application, from frontend interaction to backend API and database integration.
 
 ### Key Features
 
@@ -258,11 +240,11 @@ I developed the project independently, working across the frontend and backend t
 * 🔐 User authentication
 * 🔌 REST API integration
 * 📱 Responsive user interface
-* 🎨 Modern UI using Tailwind CSS
+* 🎨 Tailwind CSS-based UI
 
-**Tech Stack:** React.js • Tailwind CSS • Node.js • Express.js • REST APIs  • MongoDB
+**Tech Stack:** React.js • Tailwind CSS • Node.js • Express.js • MongoDB • REST APIs
 
-🔗 [View Repository](https://github.com/acharyanisha1234/Food-del.git)
+🔗 [View Repository](https://github.com/acharyanisha1234/Food-del)
 
 ---
 
@@ -271,69 +253,13 @@ I developed the project independently, working across the frontend and backend t
 ### MERN Stack Developer Intern
 
 **Sitoula Tech Solution**
-*May 2026 – August 2026*
+*June 2026 – August 2026*
 
-* Developed and contributed to **SchoolLink**, a MERN-based school management platform, working with React, Node.js, Express.js, MongoDB, authentication, REST APIs, and user-related features.
-* Worked on **Teacher and Student-related modules** and contributed to frontend and backend functionality.
-* Tested features, identified bugs, and troubleshot frontend and backend issues during development.
+* Developed and contributed to **SchoolLink**, a MERN-based school management platform.
+* Worked with **React.js, Node.js, Express.js, MongoDB, JWT, and REST APIs**.
+* Contributed to **Teacher and Student-related modules** and user-facing features.
+* Integrated frontend features with backend APIs.
+* Tested features, identified bugs, and troubleshot frontend and backend issues.
 * Worked with team members to understand requirements and implement assigned features.
-* Contributed to **TrustMart** frontend development, particularly user management and user-related interfaces.
-* Independently developed **Cinevo**, a MERN-based movie streaming platform using React, Tailwind CSS, Node.js, Express.js, MongoDB, and REST APIs.
-* Independently developed **Food-del**, a full-stack restaurant/food ordering application with frontend and backend functionality.
-* Built and integrated features across different projects while working with modern development tools and workflows.
-* Used Git, GitHub, Postman, and collaborative development practices during project development.
-
----
-
-# 📚 Currently Learning
-
-I am continuously improving my development skills, with a particular focus on:
-
-* Advanced React.js
-* Backend architecture
-* REST API design
-* Authentication & application security
-* Database design and optimization
-* System design fundamentals
-* Clean and maintainable code
-* Deployment and cloud technologies
-
----
-
-# 🧠 Development Approach
-
-> **Learn → Build → Debug → Improve → Repeat**
-
-I believe strong development skills come from building real applications and learning from the problems that appear during development.
-
-I focus on:
-
-* Building practical projects
-* Understanding the reason behind technical problems
-* Debugging instead of simply replacing code
-* Reading documentation and learning from official resources
-* Improving code quality over time
-* Learning through hands-on development
-
----
-
-# 🌐 Connect With Me
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-9B59B6?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://acharyanisha1234.github.io/My-portfolio/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/acharyanisha1234)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/nisha-acharya-8711b4400)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:nishaacharya2063@gmail.com)
-
----
-
-## 🎯 Career Goal
-
-I’m looking for opportunities where I can contribute to real-world software projects, learn from experienced developers, and continue growing as a **Full-Stack Developer**.
-
-I am especially interested in **MERN Stack, backend development, REST APIs, real-time applications, and scalable web applications**.
-
----
-
-### Thanks for visiting my profile! 👋
-
-Feel free to explore my repositories and projects.
+* Used **Git, GitHub, Postman, and collaborative development workflows**.
+* Gained practical experience wor
