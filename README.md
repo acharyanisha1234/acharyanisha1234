@@ -1,265 +1,223 @@
-# Hi, I'm Nisha Acharya 👋
+# 👋 Hi, I'm Nisha Acharya
 
-### MERN Stack Developer | Full-Stack Developer
+### 💻 MERN Stack Developer · Full-Stack Developer · Computing Student
 
-📍 Nepal
-💻 Open to internships, junior developer roles, and remote opportunities
+<p align="center">
+  <a href="https://github.com/acharyanisha1234">
+    <img src="https://img.shields.io/badge/GitHub-acharyanisha1234-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://acharyanisha1234.github.io/My-portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Portfolio-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+</p>
 
-I’m a **BSc (Hons) Computing student** and **MERN Stack Developer** interested in building practical, user-focused web applications.
-
-I enjoy working across both frontend and backend development, building responsive interfaces, REST APIs, authentication systems, database-driven applications, and real-time features. I’m also continuously improving my skills in backend development, system design, security, and deployment.
+<p align="center">
+  <b>Building practical web & mobile applications with modern full-stack technologies.</b>
+</p>
 
 ---
 
-## 👩‍💻 About Me
+## 🌐 About Me
 
-* 🎓 BSc (Hons) Computing, affiliated with **London Metropolitan University**
+I'm a **BSc (Hons) Computing student** and **MERN Stack Developer** based in Nepal, interested in building practical, scalable, and user-focused applications.
+
+I enjoy working across the **frontend and backend**, from designing responsive interfaces and integrating REST APIs to implementing authentication, databases, real-time communication, and deployment.
+
+I'm currently focused on strengthening my skills in **backend architecture, system design, security, API development, and deployment**.
+
+* 🎓 BSc (Hons) Computing — affiliated with **London Metropolitan University**
 * 💻 Focused on **MERN Stack & Full-Stack Development**
-* ⚛️ Experience with **React.js, Node.js, Express.js, and MongoDB**
-* 🔌 Experienced in building and integrating **REST APIs**
-* 🔐 Interested in **authentication, authorization, API design, and backend development**
-* 🗄️ Worked with **MongoDB, PostgreSQL, and MySQL**
-* ⚡ Experience with **Socket.IO and WebRTC**
-* 📱 Built mobile applications using **React Native and Expo**
-* 🧩 Familiar with **Git, GitHub, Postman, and modern development workflows**
-* 🌱 Currently improving **backend architecture, system design, security, and deployment**
-* 🤝 Open to learning, collaboration, internships, and junior developer opportunities
+* 🌱 Currently improving **Backend Architecture & System Design**
+* 📱 Experience building **Web & React Native applications**
+* ⚡ Interested in **real-time applications and API development**
+* 🤝 Open to **internships, junior developer roles, and remote opportunities**
+* 📍 Nepal
 
 ---
 
-# 🛠️ Technical Skills
+# 🛠️ Tech Stack
 
-### Frontend
+### 🎨 Frontend
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square\&logo=react\&logoColor=black)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square\&logo=react\&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square\&logo=tailwindcss\&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square\&logo=vite\&logoColor=white)
-![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square\&logo=redux\&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+</p>
 
-### Backend
+### ⚙️ Backend & APIs
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=nodedotjs\&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square\&logo=express\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square\&logo=openjdk\&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square\&logo=springboot\&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square\&logo=fastapi\&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square\&logo=jsonwebtokens\&logoColor=white)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square\&logo=socketio\&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
+</p>
 
-### Databases
+### 🗄️ Databases
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square\&logo=mongodb\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square\&logo=postgresql\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
 
-### Tools & Development
+### 🔧 Tools & Platforms
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square\&logo=postman\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square\&logo=visualstudiocode\&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square\&logo=intellijidea\&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat-square\&logo=gradle\&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square\&logo=vercel\&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</p>
 
 ---
 
 # 🚀 Featured Projects
 
-## 🛡️ RoadShield — Real-Time Road Safety & Incident Reporting
+## 🛡️ RoadShield
 
-**RoadShield** is a mobile-focused road safety and incident reporting application with web browser support.
+### Real-Time Road Safety & Incident Reporting
 
-The application allows users to report road incidents using their **location, photos, incident type, and severity**. Reported incidents can be displayed on an interactive map, helping users and authorized personnel monitor road-safety issues.
+RoadShield is a **mobile-focused road safety application** that allows users to report road incidents using their location, photos, incident type, and severity.
 
-The system uses **Socket.IO for real-time communication** and supports role-based access for **Users, Police, and Admins**.
+The application provides an interactive map for monitoring incidents and uses **real-time communication** to keep users and authorized personnel updated.
 
-### Key Features
+**Highlights**
 
-* 📍 GPS-based location tracking
-* 📸 Camera/photo-based incident reporting
-* 🚨 Incident type and severity classification
+* 📍 GPS-based incident reporting
+* 📸 Camera & image-based reports
 * 🗺️ Interactive incident map
+* 🚨 Incident severity & type classification
 * ⚡ Real-time updates with Socket.IO
-* 🆘 SOS/emergency functionality
-* 👮 User, Police, and Admin roles
-* 📊 Incident statistics and hotspot monitoring
-* 🔐 JWT authentication and role-based authorization
-* 🤖 Python/FastAPI-based AI support service
+* 🆘 SOS functionality
+* 👤 User, Police & Admin roles
+* 📊 Incident statistics & hotspot monitoring
+* 🔐 JWT authentication & role-based authorization
+* 🤖 Python/FastAPI AI support service
 
-**Tech Stack:** React Native • Expo • Node.js • Express.js • MongoDB • Mongoose • JWT • bcrypt • Socket.IO • Expo Location • React Native Maps • FastAPI • Python • OpenCV • NumPy • scikit-learn
+**Tech:** `React Native` `Expo` `Node.js` `Express.js` `MongoDB` `Socket.IO` `JWT` `FastAPI` `Python` `OpenCV`
 
-🔗 [View Repository](https://github.com/acharyanisha1234/RoadShield)
+🔗 **[View Repository](https://github.com/acharyanisha1234/RoadShield)**
 
 ---
 
-## 💰 SajiloSplit — Digital Money Management Platform
+## 💰 SajiloSplit
 
-**SajiloSplit** is a full-stack financial management application designed to simplify **shared expenses, settlements, wallets, budgets, bills, and group financial activities**.
+### Digital Money & Shared Expense Management Platform
 
-Users can create groups, record expenses, split costs using different methods, and calculate settlements between group members.
+SajiloSplit is a full-stack financial platform designed to simplify **shared expenses, wallets, budgets, bills, and settlements**.
 
-### Key Features
+Users can create groups, record expenses, split costs using different methods, and calculate settlements between members.
 
-* 🔐 JWT-based authentication
+**Highlights**
+
+* 🔐 JWT authentication
 * 💳 Digital wallet functionality
 * 📱 QR-based payment flow
 * 👥 Group expense management
-* ➗ Equal, percentage, exact, and share-based splitting
+* ➗ Equal, percentage, exact & share-based splitting
 * ⚖️ Automated settlement calculation
 * 📊 Budget management
-* 🧾 Recurring bill management
-* 🔒 Locked funds and emergency fund features
-* 📩 Email verification and password recovery
+* 🧾 Recurring bills
+* 📩 Email verification & password recovery
 * 🔔 Real-time notifications
-* 👑 Administrative features
-* 🌐 Multi-language and theme support
+* 🌐 Multi-language & theme support
 
-**Tech Stack:** React.js • Vite • Tailwind CSS • Redux Toolkit • Node.js • Express.js • MongoDB • JWT • Socket.IO • Nodemailer
+**Tech:** `React` `Vite` `Tailwind CSS` `Redux Toolkit` `Node.js` `Express.js` `MongoDB` `Socket.IO` `JWT`
 
-🔗 [View Repository](https://github.com/acharyanisha1234/SajiloSplit)
+🔗 **[View Repository](https://github.com/acharyanisha1234/SajiloSplit)**
 
 ---
 
-## 🏫 SchoolLink — School Management Platform
+## 🏫 SchoolLink
 
-**SchoolLink** is a **MERN-based school management platform** developed during my internship at **Sitoula Tech Solution**.
+### MERN-Based School Management Platform
 
-The platform focuses on managing school-related information for **teachers and students**. During the internship, I contributed to frontend development, backend integration, authentication, testing, debugging, and troubleshooting.
+SchoolLink is a **MERN-based school management platform** developed during my internship at **Sitoula Tech Solution**.
 
-The application follows a client-server architecture where the React frontend communicates with REST APIs built using Node.js and Express.js, with MongoDB used for data storage.
+I contributed to frontend development, backend integration, authentication, testing, debugging, and troubleshooting across teacher and student-related features.
 
-### Key Features
+**Highlights**
 
-* 👨‍🏫 Teacher-related management features
-* 🎓 Student management and academic information
-* 🔐 Authentication and authorization
-* 🔑 Protected and role-based access
+* 👨‍🏫 Teacher-related features
+* 🎓 Student & academic information
+* 🔐 Authentication & authorization
+* 🔑 Protected role-based access
 * 🔌 REST API integration
-* 🗄️ MongoDB-based data management
-* 🧪 Feature testing and debugging
-* 🐛 Frontend and backend troubleshooting
-* 🌐 Web deployment using Vercel
+* 🗄️ MongoDB data management
+* 🧪 Testing & debugging
+* 🌐 Vercel deployment
 
-**Tech Stack:** React.js • Node.js • Express.js • MongoDB • JWT • REST APIs • Vercel
+**Tech:** `React` `Node.js` `Express.js` `MongoDB` `JWT` `REST APIs` `Vercel`
 
-🔗 [View Repository](https://github.com/acharyanisha1234/SchoolLink)
-🌐 [Live Demo](https://stsschoollink.vercel.app/)
+🔗 **[Repository](https://github.com/acharyanisha1234/SchoolLink)**
+🌐 **[Live Demo](https://stsschoollink.vercel.app/)**
 
 ---
 
-## 🩺 Swastha-Sangai — Healthcare Social Platform
+## 🩺 Swastha-Sangai
 
-**Swastha-Sangai** is a full-stack healthcare-focused social platform combining **social interaction, communication, and health-related features**.
+### Healthcare Social & Communication Platform
 
-The platform allows users to create profiles, interact through posts and communities, communicate in real time, and access health-focused features.
+Swastha-Sangai is a full-stack healthcare-focused social platform combining **social interaction, real-time communication, communities, and health-related features**.
 
-It also explores real-time communication and peer-to-peer media communication using **Socket.IO and WebRTC**.
+**Highlights**
 
-### Key Features
-
-* 🔐 JWT-based authentication
-* 👤 User profiles and social connections
-* 📝 Posts and comments
-* 👥 Communities and social interaction
+* 👤 User profiles & social connections
+* 📝 Posts & comments
+* 👥 Communities
 * 💬 Real-time messaging
-* 📞 One-to-one audio/video communication with WebRTC
+* 📞 One-to-one audio/video communication
 * 🤖 AI chatbot integration
 * 💝 Donation functionality
-* ⚡ Real-time communication using Socket.IO
+* ⚡ Socket.IO real-time communication
+* 🔐 JWT authentication
 
-**Tech Stack:** React.js • Node.js • Express.js • PostgreSQL • Socket.IO • WebRTC • JWT
+**Tech:** `React` `Node.js` `Express.js` `PostgreSQL` `Socket.IO` `WebRTC` `JWT`
 
-🔗 [View Repository](https://github.com/acharyanisha1234/Swastha-Sangai)
+🔗 **[View Repository](https://github.com/acharyanisha1234/Swastha-Sangai)**
 
 ---
 
-## 🛒 TrustMart — Second-Hand Marketplace
+## 🛒 TrustMart
 
-**TrustMart** is a marketplace application built with a **React and Tailwind CSS frontend** and a **Java Spring Boot backend**.
+### Second-Hand Marketplace
 
-My primary contribution was on the **frontend**, where I worked on user management, authentication interfaces, dashboard features, protected routes, and backend API integration.
+TrustMart is a marketplace application built using **React, Tailwind CSS, and Java Spring Boot**.
 
-### Key Features
+My main contribution was on the **frontend**, including user management, authentication interfaces, dashboards, protected routes, and REST API integration.
 
-* 🔐 User registration and login
-* 👥 Role-based access for Admin, Staff, and Customer
-* 👤 User dashboard and profile management
-* 🔑 Password change functionality
-* 🛡️ Protected frontend routes
+**Highlights**
+
+* 🔐 Registration & login
+* 👥 Admin, Staff & Customer roles
+* 👤 User dashboard
+* 🔑 Password management
+* 🛡️ Protected routes
 * 🔗 Spring Boot REST API integration
-* 🗄️ PostgreSQL database integration
+* 🗄️ PostgreSQL integration
 
-**Tech Stack:** React.js • Tailwind CSS • Java • Spring Boot • Gradle • PostgreSQL • JWT
+**Tech:** `React` `Tailwind CSS` `Java` `Spring Boot` `Gradle` `PostgreSQL` `JWT`
 
-🔗 [View Repository](https://github.com/dikshanta8080/trustmart)
-
----
-
-## 🎬 Cinevo — MERN Movie Streaming Platform
-
-**Cinevo** is an independent **MERN Stack movie streaming platform** focused on movie discovery and content management.
-
-The platform provides features such as trending movies, popular content, upcoming releases, favorites, watch history, and continue watching.
-
-### Key Features
-
-* 🎥 Movie browsing and online playback
-* 🔎 Movie search
-* 🔥 Trending and popular content
-* 🆕 Upcoming movies
-* ❤️ Favorites
-* 🕐 Watch history
-* ▶️ Continue watching
-* 📤 Social sharing
-* 📱 Responsive user interface
-* 🔌 REST API integration
-
-**Tech Stack:** React.js • Tailwind CSS • Node.js • Express.js • MongoDB • REST APIs
-
-🔗 [View Repository](https://github.com/acharyanisha1234/Cinevo)
+🔗 **[View Repository](https://github.com/dikshanta8080/trustmart)**
 
 ---
 
-## 🍽️ Food-del — Food Ordering Platform
+## 🎬 Cinevo
 
-**Food-del** is a full-stack food ordering web application designed to provide users with a simple way to **browse food, manage their cart, and place orders**.
+### MERN Movie Streaming Platform
 
-The project helped me understand the complete flow of a food-ordering application, from frontend interaction to backend API and database integration.
-
-### Key Features
-
-* 🍔 Food categories and menu browsing
-* 🍽️ Food item selection
-* 🛒 Cart management
-* 📦 Order management
-* 🔐 User authentication
-* 🔌 REST API integration
-* 📱 Responsive user interface
-* 🎨 Tailwind CSS-based UI
-
-**Tech Stack:** React.js • Tailwind CSS • Node.js • Express.js • MongoDB • REST APIs
-
-🔗 [View Repository](https://github.com/acharyanisha1234/Food-del)
-
----
-
-# 💼 Experience
-
-### MERN Stack Developer Intern
-
-**Sitoula Tech Solution**
-*June 2026 – August 2026*
-
-* Developed and contributed to **SchoolLink**, a MERN-based school management platform.
-* Worked with **React.js, Node.js, Express.js, MongoDB, JWT, and REST APIs**.
-* Contributed to **Teacher and Student-related modules** and user-facing features.
-* Integrated frontend features with backend APIs.
-* Tested features, identified bugs, and troubleshot frontend and backend issues.
-* Worked with team members to understand requirements and implement assigned features.
-* Used **Git, GitHub, Postman, and collaborative development workflows**.
-* Gained practical experience wor
+Cinevo is an independent MERN Stack project
