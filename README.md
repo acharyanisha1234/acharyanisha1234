@@ -220,4 +220,145 @@ My main contribution was on the **frontend**, including user management, authent
 
 ### MERN Movie Streaming Platform
 
-Cinevo is an independent MERN Stack project
+Cinevo is an independent MERN Stack project focused on **movie discovery, content browsing, and personalized viewing features**.
+
+**Features**
+
+* 🎥 Movie browsing & playback
+* 🔎 Search
+* 🔥 Trending & popular content
+* 🆕 Upcoming releases
+* ❤️ Favorites
+* 🕐 Watch history
+* ▶️ Continue watching
+* 📤 Social sharing
+* 📱 Responsive UI
+* 🔌 REST API integration
+
+**Tech:** `React` `Tailwind CSS` `Node.js` `Express.js` `MongoDB` `REST APIs`
+
+🔗 **[View Repository](https://github.com/acharyanisha1234/Cinevo)**
+
+---
+
+## 🍽️ Food-del
+
+### Food Ordering Platform
+
+Food-del is a full-stack food ordering application where users can browse menus, manage their cart, and place orders.
+
+**Features**
+
+* 🍔 Food categories & menu browsing
+* 🛒 Cart management
+* 📦 Order management
+* 🔐 User authentication
+* 🔌 REST API integration
+* 📱 Responsive interface
+* 🎨 Tailwind CSS UI
+
+**Tech:** `React` `Tailwind CSS` `Node.js` `Express.js` `MongoDB`
+
+🔗 **[View Repository](https://github.com/acharyanisha1234/Food-del)**
+
+---
+
+# 💼 Experience
+
+## MERN Stack Developer Intern
+
+### Sitoula Tech Solution · Itahari, Nepal
+
+**June 2026 – August 2026**
+
+* 🚀 Contributed to **SchoolLink**, a MERN-based school management platform.
+* ⚛️ Worked with **React.js, Node.js, Express.js, MongoDB, JWT, and REST APIs**.
+* 👨‍🏫 Contributed to teacher and student-related modules.
+* 🔌 Integrated frontend features with backend APIs.
+* 🧪 Tested features and identified application issues.
+* 🐛 Debugged and troubleshot frontend and backend problems.
+* 🤝 Worked with team members to understand requirements and implement assigned features.
+* 🔧 Used Git, GitHub, Postman, and collaborative development workflows.
+* 💬 Gained practical experience communicating requirements and working on client-related application needs.
+
+---
+
+# 📚 Currently Learning
+
+```text
+Backend Architecture     ███████████████░░░  Improving
+System Design             ████████████░░░░░░  Improving
+API Security              █████████████░░░░░  Improving
+Database Design            █████████████░░░░░  Improving
+Cloud & Deployment         ███████████░░░░░░░  Exploring
+```
+
+I'm currently exploring better approaches to:
+
+* 🏗️ Backend architecture
+* 🔐 API security & authentication
+* 🗄️ Database design
+* ⚡ Scalable REST APIs
+* 🔄 Real-time applications
+* ☁️ Deployment & production workflows
+* 🧩 System design
+
+---
+
+# 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=acharyanisha1234&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=acharyanisha1234&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=acharyanisha1234&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=acharyanisha1234&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
+</p>
+
+---
+
+# 🎯 What I'm Looking For
+
+I'm currently open to:
+
+* 💻 Junior Full-Stack Developer roles
+* ⚛️ Junior Frontend Developer roles
+* 🟢 MERN Stack Developer opportunities
+* 🌐 Remote developer opportunities
+* 🚀 Internship & entry-level opportunities
+* 🤝 Open-source collaboration
+
+I'm especially interested in opportunities where I can **learn, contribute to real-world products, and grow as a software developer**.
+
+---
+
+# 📫 Let's Connect
+
+<p align="center">
+  <a href="https://github.com/acharyanisha1234">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://acharyanisha1234.github.io/My-portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/nisha-acharya-8711b4400/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <i>“Building, learning, and improving one project at a time.”</i>
+</p>
+
+<p align="center">
+  ⭐ Thanks for visiting my profile!
+</p>
